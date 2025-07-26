@@ -83,3 +83,13 @@ This project focuses on classifying hand gestures representing digits (0–9) us
 - `Results Report.pdf`: Summary of model performances and evaluation   
 
 ---
+## 👤 Author
+
+**Syed Hussain Ahmad**
+- GitHub: [@SyedHussainAhmad](https://github.com/SyedHussainAhmad)
+- LinkedIn: [Syed Hussain Ahmad](https://www.linkedin.com/in/syedhussainahmad/)
+
+---
+⭐ **Star this repository if you found it helpful!**
+
+💡 **Have suggestions or found a bug?** Please open an issue or submit a pull request.
